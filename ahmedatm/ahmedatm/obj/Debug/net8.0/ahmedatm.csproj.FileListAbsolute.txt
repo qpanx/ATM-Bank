@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\bin\Debug\net8.0\ahmedatm.exe
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\bin\Debug\net8.0\ahmedatm.deps.json
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\bin\Debug\net8.0\ahmedatm.runtimeconfig.json
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\bin\Debug\net8.0\ahmedatm.dll
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\bin\Debug\net8.0\ahmedatm.pdb
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\obj\Debug\net8.0\ahmedatm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\obj\Debug\net8.0\ahmedatm.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\obj\Debug\net8.0\ahmedatm.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\obj\Debug\net8.0\ahmedatm.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\obj\Debug\net8.0\ahmedatm.dll
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\obj\Debug\net8.0\refint\ahmedatm.dll
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\obj\Debug\net8.0\ahmedatm.pdb
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\obj\Debug\net8.0\ahmedatm.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\ahmedatm\ahmedatm\obj\Debug\net8.0\ref\ahmedatm.dll
